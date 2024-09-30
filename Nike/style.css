@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+.logo-img {
+  margin-right: 10px;
+}
+.hero-header {
+  background-color: #0b6477;
+  margin-top: -48px;
+}
+.text-title{
+  font-size: 54px;
+  margin-bottom: 20px;
+}
+.btn-shop {
+  background: black;
+  color: white;
+  border-radius: 50px;
+}
+.btn-shop:hover {
+  opacity: 0.8;
+  color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;  
+}
+.btn-contact {
+  background-color: white;
+  color: black;
+  border-radius: 50px;
+}
+.btn-contact:hover {
+  background-color: black;
+  color: white;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+}
+.img-fluid {
+  margin-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.hero-header1{
+  background-color: #213a57;
+}
+.img-fluid-1{
+  margin-bottom: 0;
+}
+.header-sports {
+  margin-top: 0px;
+  background-color: #14919b;
+}
+.card-img-top{
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  border-radius: 50px;
+
+}
+.text-bottom{
+  font-style: italic;
+}
+.price{
+  font-size: 27px;
+}
+.btn-cart {
+  background-color: orange;
+  color: white;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+.btn-cart:hover {
+  opacity: 0.8;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 50px;
+}
+.btn-buy {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 50px;
+}
+.header-shoes{
+  background-color: #0ad1c8;
+}
